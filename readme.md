@@ -1,4 +1,3 @@
-| Các yêu cầu được bao phủ: [324-NCS], [325-NCS]|| Ưu tiên: khoảng giữa |
-| ---------| ---------------- |
-| Điều kiện kiểm thử | Dạng | Phạm vi | Ghi chú |
-| Điều kiện kiểm thử | Dạng | Phạm vi | Ghi chú |
+| STT | Mô tả | ID |
+| --------- | ---- | ------- |
+|	[1] | Yêu cầu hệ thống, kiểm thử cơ bản | Requirements Specification for PC part of UV/TIT-14 33a.; Vers. 1.8 |
